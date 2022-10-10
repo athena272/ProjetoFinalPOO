@@ -3,7 +3,7 @@
 ## Link do deploy
 
 
-Nossa projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema na qual os usuários podem pesquisar catálagos de filmes, informar seus dados e assim poderem fazer a avaliação de cada filme, e depois essa mesma avalaição é listada na aplicação.
+Nossa projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema na qual os usuários podem pesquisar catálagos de filmes, informar seus dados e assim poderem fazer a avaliação de cada filme, e depois essa mesma avaliação é listada na aplicação.
 
 ## Layout mobile
 ![DSMoive-mobile01](https://user-images.githubusercontent.com/58920070/194927838-258ef5af-7177-47eb-a0b7-78af6dbf1141.png)
