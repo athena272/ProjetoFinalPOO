@@ -24,7 +24,7 @@ Nosso projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema
 ## Deploy da aplicação
 - Backend: Heroku
 - Frontend: Netlify
-- Banco de dados: Postgresql
+- Banco de dados: PostgreSQL
 
 # Como executar o projeto
 
