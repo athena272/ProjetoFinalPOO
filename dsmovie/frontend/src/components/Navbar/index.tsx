@@ -19,7 +19,7 @@ function Navbar(){
                         <p className="dsmovie-contact-link">/athena272</p>
                     </div>
                 </a>
-                <a href="https://github.com/athena272" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Vitordotpy" target="_blank" rel="noreferrer">
                     <div className="dsmovie-contact-container">
                         <GithubIcon />
                         <p className="dsmovie-contact-link">/Vitordotpy</p>
