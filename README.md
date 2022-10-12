@@ -3,7 +3,7 @@
 ## Link do deploy
 
 
-Nossa projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema na qual os usuários podem pesquisar catálagos de filmes, informar seus dados e assim poderem fazer a avaliação de cada filme, e depois essa mesma avaliação é listada na aplicação.
+Nosso projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema na qual os usuários podem pesquisar filmes em um catálogo, informar seus dados e assim avaliar o filme de sua escolha, e depois essa mesma avaliação é listada na aplicação.
 
 ## Layout mobile
 
@@ -24,7 +24,7 @@ Nossa projeto é uma aplicação fullstack web e mobile. Ela consiste um sistema
 ## Deploy da aplicação
 - Backend: Heroku
 - Frontend: Netlify
-- Banco de dados: Postgresql
+- Banco de dados: PostgreSQL
 
 # Como executar o projeto
 
